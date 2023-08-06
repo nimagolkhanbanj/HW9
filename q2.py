@@ -20,8 +20,5 @@ def loading(file_path):
             print(person)
 
 
-persons = [
-    Person('ali', 30, 'tehran'),
-    Person('reza', 25, 'rasht')
-]
+
 
