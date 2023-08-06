@@ -25,5 +25,3 @@ persons = [
     Person('reza', 25, 'rasht')
 ]
 
-dumping('persons.pkl', persons)
-loading('persons.pkl')
