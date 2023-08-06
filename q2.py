@@ -13,7 +13,3 @@ def dumping(file_addres, persons):
     with open(file_addres, 'wb') as f:
         pickle.dump(persons, f)
 
-
-
-
-
